@@ -82,7 +82,7 @@ Untuk mengubah izin baca/tulis untuk pemilik.
 
 ## **17. chmod +x**
 Mengubah jadi file yang bisa dieksekusi.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/694c166a7594e595b06be3d39abdc230a823049a/images/Screenshot%202025-09-24%20213734.png?raw=true)
 
 ## **18. find**
 Mencari semua file.
