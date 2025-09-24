@@ -131,3 +131,43 @@ Menampilkan job background/foreground.
 ## **30. date**
 Melihat tanggal saat ini.
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **31. whoami**
+Melihat informasi pengguna.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **32. hostname**
+ Menampilkan hostname komputer.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **33. ip addr**
+ Menampilkan alamat IP.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **34. lscpu**
+Menampilkan informasi CPU .
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **35. man ls**
+Menampilkan manual (help) dari perintah.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **36. expr**
+Menghitung ekspresi matematika sederhana.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **37. lsblk**
+Menampilkan partisi disk.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **38. ping google.com**
+Menguji koneksi ke google.com.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **39. netstat -tuln**
+Melihat koneksi aktif.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
+
+## **40. ss -tuln**
+Menampilkan port yang terbuka.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
