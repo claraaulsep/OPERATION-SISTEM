@@ -86,7 +86,7 @@ Mengubah jadi file yang bisa dieksekusi.
 
 ## **18. find**
 Mencari semua file.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/e6a249fa3f8c925e4016ea52cbd01ff9bbdf7c22/images/Screenshot%202025-09-24%20213748.png?raw=true)
 
 ## **19. grep -r**
 Mencari kata di file.
