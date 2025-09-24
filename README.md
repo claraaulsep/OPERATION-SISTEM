@@ -70,7 +70,7 @@ Menyalin file ke folder lain.
 
 ## **15. mv**
 Mengganti nama file.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/1b2c4c7df85094851d4aa88084f7ccf71eab2326/images/Screenshot%202025-09-24%20213702.png?raw=true)
 
 ## **16. mv mtkdiskrit.txt tugas/**
 Memindahkan file ke folder.
