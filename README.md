@@ -74,7 +74,7 @@ Mengganti nama file.
 
 ## **16. mv mtkdiskrit.txt tugas/**
 Memindahkan file ke folder.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/103228f7ac258e3e9df98a7f9deed9d0185877c1/images/Screenshot%202025-09-24%20213709.png?raw=true)
 
 ## **17. chmod**
 Untuk mengubah izin baca/tulis untuk pemilik.
