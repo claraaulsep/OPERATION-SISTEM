@@ -58,7 +58,7 @@ Menampilkan 10 baris akhir file.
 
 ## **12. tail -f**
 Mengikuti update real time.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/f86cf7dbeb6e8f40c57fb06673f9085f46c1d0fc/images/Screenshot%202025-09-24%20213640.png?raw=true)
 
 ## **13. cp**
 Menyalin file.
