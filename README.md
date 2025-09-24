@@ -38,7 +38,7 @@ Menampilkan detail file.
 
 ## **7. echo**
 Mengisi file.  
-![alt text]?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/dfeb48dd67cfb913689f97e2d6af8b8865ab9c27/images/Screenshot%202025-09-24%20213442.png?raw=true)
 
 ## **8. cat**
 Melihat isi file.  
