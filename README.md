@@ -14,4 +14,9 @@ Membuat folder.
 ## **2. cd**
 Masuk ke folder.  
 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/ad1f66fedbb10652a55256eb6a54bc2bc453e0ef/images/Screenshot%202025-09-24%20213353.png?raw=true)
+
+## **3. pwd**
+Cek direktori saat ini.  
+
 ![alt text](?raw=true)
