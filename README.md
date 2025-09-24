@@ -80,18 +80,22 @@ Memindahkan file ke folder.
 Untuk mengubah izin baca/tulis untuk pemilik.
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/57ca02259b2aaabedd0236624ba50e9403180b1a/images/Screenshot%202025-09-24%20213724.png?raw=true)
 
-## **17. chmod +x**
+## **18. chmod +x**
 Mengubah jadi file yang bisa dieksekusi.
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/694c166a7594e595b06be3d39abdc230a823049a/images/Screenshot%202025-09-24%20213734.png?raw=true)
 
-## **18. find**
+## **19. find**
 Mencari semua file.
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/e6a249fa3f8c925e4016ea52cbd01ff9bbdf7c22/images/Screenshot%202025-09-24%20213748.png?raw=true)
 
-## **19. grep -r**
+## **20. grep -r**
 Mencari kata di file.
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/a8d41b093fba6a7d868eb96a388c128a5d87d481/images/Screenshot%202025-09-24%20214452.png?raw=true)
 
-## **20. df -h**
+## **21. df -h**
 Cek kapasitas disk.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/33b6d200cbb508ed575eab7769127e042f1a6e20/images/Screenshot%202025-09-24%20214526.png?raw=true)
+
+## **22. rm**
+Menghapus file.
 ![alt text](?raw=true)
