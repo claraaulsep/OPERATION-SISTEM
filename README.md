@@ -78,7 +78,7 @@ Memindahkan file ke folder.
 
 ## **17. chmod**
 Untuk mengubah izin baca/tulis untuk pemilik.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/57ca02259b2aaabedd0236624ba50e9403180b1a/images/Screenshot%202025-09-24%20213724.png?raw=true)
 
 ## **17. chmod +x**
 Mengubah jadi file yang bisa dieksekusi.
