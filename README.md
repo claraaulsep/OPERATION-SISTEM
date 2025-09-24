@@ -10,3 +10,8 @@
 Membuat folder.  
 
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/9c123284dcffe9e882f015074b8956f8251be6f0/Screenshot%202025-09-24%20213336.png?raw=true)
+
+## **2. cd**
+Masuk ke folder.  
+
+![alt text](?raw=true)
