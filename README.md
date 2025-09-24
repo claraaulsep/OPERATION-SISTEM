@@ -62,7 +62,7 @@ Mengikuti update real time.
 
 ## **13. cp**
 Menyalin file.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/b955328df5e0015acc9c9757651c7172f44a5f41/images/Screenshot%202025-09-24%20213648.png?raw=true)
 
 ## **14. cp datamining.txt tugas/**
 Menyalin file ke folder lain.
