@@ -42,7 +42,7 @@ Mengisi file.
 
 ## **8. cat**
 Melihat isi file.  
-![alt text]?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/4b320a4812aa263c50f9a2318e924315a39fe217/images/Screenshot%202025-09-24%20213450.png?raw=true)
 
 ## *9. less**
 Membaca isi file per halaman.
