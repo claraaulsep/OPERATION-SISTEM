@@ -24,4 +24,30 @@ Cek direktori saat ini.
 ## **4. touch**
 Membuat file.  
 
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/49feb083ae156aadfb9c1a748b0cf6d043cf5544/images/Screenshot%202025-09-24%20213404.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d8ee449cba7ada92c1922efce2dd9cb205b09668/images/Screenshot%202025-09-24%20213414.png?raw=true)
+
+
+## **5. ls**
+Menampilkan semua file.  
+
+![alt text]?raw=true)
+
+## **6. ls -l**
+Menampilkan detail file.  
+![alt text]?raw=true)
+
+## **7. echo**
+Mengisi file.  
+![alt text]?raw=true)
+
+## **8. cat**
+Melihat isi file.  
+![alt text]?raw=true)
+
+## *9. less**
+Membaca isi file per halaman.
+![alt text]?raw=true)
+
+## *10. head**
+Menampilkan 10 baris awal file.
+![alt text]?raw=true)
