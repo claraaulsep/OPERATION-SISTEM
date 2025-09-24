@@ -66,7 +66,7 @@ Menyalin file.
 
 ## **14. cp datamining.txt tugas/**
 Menyalin file ke folder lain.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/2ea6dc180e2f8cd5bf186e60032032bb2b007358/images/Screenshot%202025-09-24%20213656.png?raw=true)
 
 ## **15. mv**
 Mengganti nama file.
