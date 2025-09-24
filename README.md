@@ -19,4 +19,9 @@ Masuk ke folder.
 ## **3. pwd**
 Cek direktori saat ini.  
 
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/49feb083ae156aadfb9c1a748b0cf6d043cf5544/images/Screenshot%202025-09-24%20213404.png?raw=true)
+
+## **4. touch**
+Membuat file.  
+
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/49feb083ae156aadfb9c1a748b0cf6d043cf5544/images/Screenshot%202025-09-24%20213404.png?raw=true)
