@@ -90,7 +90,7 @@ Mencari semua file.
 
 ## **19. grep -r**
 Mencari kata di file.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/a8d41b093fba6a7d868eb96a388c128a5d87d481/images/Screenshot%202025-09-24%20214452.png?raw=true)
 
 ## **20. df -h**
 Cek kapasitas disk.
