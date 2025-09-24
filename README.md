@@ -102,32 +102,32 @@ Menghapus file.
 
 ## **23. du -sh**
 Cek ukuran folder.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214538.png?raw=true)
 
 ## **24. free -h**
 Cek ram.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/6dd63407f3f5476ffabc8e80adf3d51d50b17f47/images/Screenshot%202025-09-24%20213716.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214544.png?raw=true)
 
 ## **25. uname -a**
  Info sistem.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/6dd63407f3f5476ffabc8e80adf3d51d50b17f47/images/Screenshot%202025-09-24%20213716.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214552.png?raw=true)
 
 ## **26. uptime**
 Lama sistem berjalan.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/6dd63407f3f5476ffabc8e80adf3d51d50b17f47/images/Screenshot%202025-09-24%20213716.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214558.png?raw=true)
 
 ## **27. ps aux**
  Menampilkan daftar proses.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/6dd63407f3f5476ffabc8e80adf3d51d50b17f47/images/Screenshot%202025-09-24%20213716.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214604.png?raw=true)
 
 ## **28. top**
 Monitioring Proses real time.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/6dd63407f3f5476ffabc8e80adf3d51d50b17f47/images/Screenshot%202025-09-24%20213716.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214611.png?raw=true)
 
 ## **29. jobs**
 Menampilkan job background/foreground.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/6dd63407f3f5476ffabc8e80adf3d51d50b17f47/images/Screenshot%202025-09-24%20213716.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214619.png?raw=true)
 
 ## **30. date**
 Melihat tanggal saat ini.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/6dd63407f3f5476ffabc8e80adf3d51d50b17f47/images/Screenshot%202025-09-24%20213716.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/5fa4e97658e95015550e350c29cc235b359d0eee/images/Screenshot%202025-09-24%20214625.png?raw=true)
