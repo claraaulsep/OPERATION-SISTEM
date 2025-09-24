@@ -30,7 +30,7 @@ Membuat file.
 ## **5. ls**
 Menampilkan semua file.  
 
-![alt text]?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/09cee793365074be2f754efc1b7f95b39acdc068/images/Screenshot%202025-09-24%20213424.png?raw=true)
 
 ## **6. ls -l**
 Menampilkan detail file.  
