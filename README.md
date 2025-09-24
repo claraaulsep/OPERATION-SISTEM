@@ -34,7 +34,7 @@ Menampilkan semua file.
 
 ## **6. ls -l**
 Menampilkan detail file.  
-![alt text]?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/a6bdda34789477b4a1292b25d1934d9aab282e3e/images/Screenshot%202025-09-24%20213432.png?raw=true)
 
 ## **7. echo**
 Mengisi file.  
