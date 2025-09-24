@@ -211,4 +211,5 @@ Melihat group yang dimiliki user saat ini.
 ## **50. clear**
 Membersihkan layar terminal. 
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/03c6851664615fe0c68c9ab4f043500a9f71ca9d/images/Screenshot%202025-09-25%20053720.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/f53d4b10b8fdcc51cc50e61ba685b6e68dbfc66b/images/Screenshot%202025-09-25%20053733.png?raw=true)
 
