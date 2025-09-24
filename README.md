@@ -48,6 +48,50 @@ Melihat isi file.
 Membaca isi file per halaman.
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c382e8c90105fa9252c93d812521f9cbf9601606/images/Screenshot%202025-09-24%20213457.png?raw=true)
 
-## *10. head**
+## **10. head**
 Menampilkan 10 baris awal file.
-![alt text]?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/0a8fee8fcb5723dc8f761ef8dc6ae0503d01f6a4/images/Screenshot%202025-09-24%20213505.png?raw=true)
+
+## **11. tail**
+Menampilkan 10 baris akhir file.
+![alt text](?raw=true)
+
+## **12. tail -f**
+Mengikuti update real time.
+![alt text](?raw=true)
+
+## **13. cp**
+Menyalin file.
+![alt text](?raw=true)
+
+## **14. cp datamining.txt tugas/**
+Menyalin file ke folder lain.
+![alt text](?raw=true)
+
+## **15. mv**
+Mengganti nama file.
+![alt text](?raw=true)
+
+## **16. mv mtkdiskrit.txt tugas/**
+Memindahkan file ke folder.
+![alt text](?raw=true)
+
+## **17. chmod**
+Untuk mengubah izin baca/tulis untuk pemilik.
+![alt text](?raw=true)
+
+## **17. chmod +x**
+Mengubah jadi file yang bisa dieksekusi.
+![alt text](?raw=true)
+
+## **18. find**
+Mencari semua file.
+![alt text](?raw=true)
+
+## **19. grep -r**
+Mencari kata di file.
+![alt text](?raw=true)
+
+## **20. df -h**
+Cek kapasitas disk.
+![alt text](?raw=true)
