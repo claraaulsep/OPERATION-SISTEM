@@ -54,7 +54,7 @@ Menampilkan 10 baris awal file.
 
 ## **11. tail**
 Menampilkan 10 baris akhir file.
-![alt text](?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/2c4fe485d553d351322b0ec6b7c515e182d50012/images/Screenshot%202025-09-24%20213631.png?raw=true)
 
 ## **12. tail -f**
 Mengikuti update real time.
