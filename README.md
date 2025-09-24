@@ -158,7 +158,7 @@ Menghitung ekspresi matematika sederhana.
 
 ## **37. lsblk**
 Menampilkan partisi disk.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d3cdc41c165bfb4c15230bf368ec71d60588937e/images/Screenshot%202025-09-24%20214800.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214805.png?raw=true)
 
 ## **38. ping google.com**
 Menguji koneksi ke google.com.
@@ -171,3 +171,43 @@ Melihat koneksi aktif.
 ## **40. ss -tuln**
 Menampilkan port yang terbuka.
 ![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d3cdc41c165bfb4c15230bf368ec71d60588937e/images/Screenshot%202025-09-24%20214832.png?raw=true)
+
+## **41. uname -a**
+ Melihat semua info sistem.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214839.png?raw=true)
+
+## **42. uname -r**
+Melihat versi kernel.
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214846.png?raw=true)
+
+## **43. ip route**
+Melihat route jaringan 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214854.png?raw=true)
+
+## **44. dmesg | tail**
+ Melihat log sistem terbaru. 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214901.png?raw=true)
+
+## **45.who**
+Menampilkan user yang sedang login. 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214908.png?raw=true)
+
+## **46.pstree**
+Menampilkan proses dalam bentuk pohon. 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214914.png?raw=true)
+
+## **47. cat /etc/os-release**
+Menampilkan versi sistem operasi. 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214922.png?raw=true)
+
+## **48. history**
+Menampilkan riwayat perintah yang pernah dijalankan. 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214929.png?raw=true)
+
+## **49. groups**
+Melihat group yang dimiliki user saat ini. 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214935.png?raw=true)
+
+## **50. clear**
+Membersihkan layar terminal. 
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/c7591c8dcf878d01ab729b13c027d07143770db6/images/Screenshot%202025-09-24%20214935.png?raw=true)
