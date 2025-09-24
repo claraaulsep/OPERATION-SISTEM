@@ -150,15 +150,15 @@ Menampilkan informasi CPU .
 
 ## **35. man ls**
 Menampilkan manual (help) dari perintah.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d3cdc41c165bfb4c15230bf368ec71d60588937e/images/Screenshot%202025-09-24%20214800.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d3cdc41c165bfb4c15230bf368ec71d60588937e/images/Screenshot%202025-09-24%20214812.png?raw=true)
 
 ## **36. expr**
 Menghitung ekspresi matematika sederhana.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d3cdc41c165bfb4c15230bf368ec71d60588937e/images/Screenshot%202025-09-24%20214805.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d3cdc41c165bfb4c15230bf368ec71d60588937e/images/Screenshot%202025-09-24%20214800.png?raw=true)
 
 ## **37. lsblk**
 Menampilkan partisi disk.
-![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d3cdc41c165bfb4c15230bf368ec71d60588937e/images/Screenshot%202025-09-24%20214812.png?raw=true)
+![alt text](https://github.com/claraaulsep/OPERATION-SISTEM/blob/d3cdc41c165bfb4c15230bf368ec71d60588937e/images/Screenshot%202025-09-24%20214800.png?raw=true)
 
 ## **38. ping google.com**
 Menguji koneksi ke google.com.
