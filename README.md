@@ -1,6 +1,5 @@
-# 50-basic-command-line-linux
+# 50 Linux Commands
 
-# 🖥️ Sistem Operasi
 
 ## 👤 Identitas
 - **Nama**  : Clara Aulia Septiani 
